@@ -1,0 +1,26 @@
+{
+  "id": "dsd-custom",
+  "name": "帝果（自建）",
+  "version": "1.0.4",
+  "category": "shortDrama",
+  "description": "帝果短剧自建站源，支持主备域名自动切换、分类、搜索、详情与播放解析。",
+  "runtime": "js",
+  "api": 1,
+  "adult": true,
+  "hosts": [
+    "www.dsd901.lol",
+    "dsd901.lol",
+    "dsd901.com"
+  ],
+  "capabilities": [
+    "search"
+  ],
+  "aliases": [
+    "www.dsd901.lol",
+    "dsd901.lol",
+    "dsd901.com"
+  ],
+  "baseUrl": "https://www.dsd901.lol",
+  "skipVipPrompt": true,
+  "allowEmptyCatalog": true
+}
